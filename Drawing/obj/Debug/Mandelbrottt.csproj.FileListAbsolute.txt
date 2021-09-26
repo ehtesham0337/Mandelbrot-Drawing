@@ -1,0 +1,14 @@
+D:\MadelbrotFinal\Drawing\bin\Debug\Drawing.exe.config
+D:\MadelbrotFinal\Drawing\bin\Debug\Drawing.exe
+D:\MadelbrotFinal\Drawing\bin\Debug\Drawing.pdb
+D:\MadelbrotFinal\Drawing\obj\Debug\Mandelbrottt.csprojAssemblyReference.cache
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.graphb.resources
+D:\MadelbrotFinal\Drawing\obj\Debug\CodeProject.GraphicalOverlay.resources
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.julia.resources
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.mainn.resources
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.Mandelbrot.resources
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+D:\MadelbrotFinal\Drawing\obj\Debug\Mandelbrottt.csproj.GenerateResource.cache
+D:\MadelbrotFinal\Drawing\obj\Debug\Mandelbrottt.csproj.CoreCompileInputs.cache
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.exe
+D:\MadelbrotFinal\Drawing\obj\Debug\Drawing.pdb
